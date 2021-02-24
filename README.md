@@ -31,7 +31,8 @@ The results show that the segmentation works very well, but that there is still 
 ![Classification Architecture](Patch_classification.png)
 
 ### Requirements and Dependencies
-- PyTorch 
+- PyTorch (we test with Pytorch 1.7.1 on Ubuntu 18.04)
+- Cuda (we test with Cuda 11.0)
 - for details see `requirements.txt`
 
 ### Datasets
