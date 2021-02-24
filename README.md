@@ -6,8 +6,10 @@ Codebase for our course in the WS2020/2021 at the CV:HCI at Karlsruhe Institute 
 
 ### Table of Contents
 1. [Abstract](#abstract)
-1. [Datasets](#datasets)
-1. [Requirements and Dependencies](#requirements-and-dependencies)
+2. [Requirements and Dependencies](#requirements-and-dependencies)
+3. [Datasets](#datasets)
+4. [Trained Models](#trained-models)
+
 
 ### Abstract
 Computer vision is being used in more and more areas of our life.
@@ -28,10 +30,14 @@ The results show that the segmentation works very well, but that there is still 
 
 ![Classification Architecture](Patch_classification.png)
 
+### Requirements and Dependencies
+- see requirements.txt
+
 ### Datasets
-Download Datasets to datasets folder:\
+Download the MINC-2500 and our own OpenSurfaces subset to the to datasets folder:\
 MINC-2500: http://opensurfaces.cs.cornell.edu/publications/minc/ \
 OpenSurfaceSubset: https://bwsyncandshare.kit.edu/s/FMZgW8Qtg333S2f \
 Our own labeled test dataset can be found under: https://bwsyncandshare.kit.edu/s/ACq9sDSnJ8NZnZ5 
 
+### Trained Models
 Our trained models are available under: https://bwsyncandshare.kit.edu/s/ai5eYf2SPNbHTRm
