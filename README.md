@@ -1,4 +1,4 @@
-# material-classification-in-construction-sites
+# Material Classification in Construction Sites
 Codebase for our course at the CV:HCI at KIT
 
 Download Datasets to datasets folder:
