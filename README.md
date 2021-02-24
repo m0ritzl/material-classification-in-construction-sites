@@ -31,7 +31,8 @@ The results show that the segmentation works very well, but that there is still 
 ![Classification Architecture](Patch_classification.png)
 
 ### Requirements and Dependencies
-- see requirements.txt
+- PyTorch 
+- for details see `requirements.txt`
 
 ### Datasets
 Download the MINC-2500 and our own OpenSurfaces subset to the to datasets folder:\
