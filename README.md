@@ -4,13 +4,12 @@ Codebase for our course in the WS2020/2021 at the CV:HCI at Karlsruhe Institute 
 [Moritz Ritzl](https://github.com/m0ritzl), 
 [Laurenz Thiel](https://github.com/lrnzthl) 
 
-[Report](https://github.com/m0ritzl/material-classification-in-construction-sites/blob/main/report/written_report.pdf) and [Project presentation](https://github.com/m0ritzl/material-classification-in-construction-sites/blob/main/report/presentation.pdf) 
-
 ### Table of Contents
 1. [Abstract](#abstract)
-2. [Requirements and Dependencies](#requirements-and-dependencies)
-3. [Datasets](#datasets)
-4. [Trained Models](#trained-models)
+2. [Report and Presentation](#report-and-presentation)
+3. [Requirements and Dependencies](#requirements-and-dependencies)
+4. [Datasets](#datasets)
+5. [Trained Models](#trained-models)
 
 
 ### Abstract
@@ -31,6 +30,9 @@ The results show that the segmentation works very well, but that there is still 
 
 
 ![Classification Architecture](Patch_classification.png)
+
+### Report and Presentation
+[Report](https://github.com/m0ritzl/material-classification-in-construction-sites/blob/main/report/written_report.pdf) and [Project presentation](https://github.com/m0ritzl/material-classification-in-construction-sites/blob/main/report/presentation.pdf) 
 
 ### Requirements and Dependencies
 - PyTorch (we test with Pytorch 1.7.1 on Ubuntu 18.04)
