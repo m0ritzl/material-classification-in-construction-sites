@@ -4,6 +4,8 @@ Codebase for our course in the WS2020/2021 at the CV:HCI at Karlsruhe Institute 
 [Moritz Ritzl](https://github.com/m0ritzl), 
 [Laurenz Thiel](https://github.com/lrnzthl) 
 
+Our report and project presentation are available in the [Report](https://github.com/m0ritzl/material-classification-in-construction-sites/tree/main/report)
+
 ### Table of Contents
 1. [Abstract](#abstract)
 2. [Requirements and Dependencies](#requirements-and-dependencies)
